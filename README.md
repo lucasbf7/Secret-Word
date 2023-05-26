@@ -5,9 +5,9 @@ Projeto desenvolvido em React no. É um aplicativo desenvolvido nos moldes de pr
 
 ## :framed_picture: Fotos
 <div display="flex">
-    <img src="./src/assets/firstpage.png" width="500px" h="500px">
-    <img src="./src/assets/guessing.png" width="500px" h="500px">
-    <img src="./src/assets/endgame.png" width="500px" h="500px">
+    <img src="./src/assets/firstpage.png" width="400px" h="400px">
+    <img src="./src/assets/guessing.png" width="400px" h="400px">
+    <img src="./src/assets/endgame.png" width="400px" h="400px">
 </div>
 
 ## :wrench: Tecnologias utilizadas
