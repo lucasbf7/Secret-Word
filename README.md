@@ -1,7 +1,7 @@
 <h1 align="center">Secret Word</h1>
 
 ## :memo: Descrição
-Projeto desenvolvido em React no. É um aplicativo desenvolvido nos moldes de programas de TV na qual o usuário tem que acertar a palavra secreta na tela, informando letras. O usuário tem 3 tentativas para acertar as palavras, e ao fim ele é levado a tela final, onde é exibida a pontuação e onde ele pode retornar a primeira página.
+Projeto desenvolvido em React. É um aplicativo desenvolvido nos moldes de programas de TV na qual o usuário tem que acertar a palavra secreta na tela, informando letras. O usuário tem 3 tentativas para acertar as palavras, e ao fim ele é levado a tela final, onde é exibida a pontuação e onde ele pode retornar a primeira página.
 
 ## :framed_picture: Fotos
 <div display="flex">
